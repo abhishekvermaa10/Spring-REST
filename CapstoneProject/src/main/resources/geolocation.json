@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "latitude": 30.728092,
+            "longitude": 76.7784,
+            "type": "locality",
+            "name": "Chandigarh",
+            "number": null,
+            "postal_code": null,
+            "street": null,
+            "confidence": 1,
+            "region": "Chandigarh",
+            "region_code": "CH",
+            "county": "Chandigarh",
+            "locality": "Chandigarh",
+            "administrative_area": null,
+            "neighbourhood": null,
+            "country": "India",
+            "country_code": "IND",
+            "continent": "Asia",
+            "label": "Chandigarh, India"
+        }
+    ]
+}
