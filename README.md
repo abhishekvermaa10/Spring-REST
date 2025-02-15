@@ -109,7 +109,7 @@ You can learn these topics from my YouTube channel through dedicated playlists.
 <h3 align="left">🖥️ Software & Tools</h3>
 <p align="left">
     <a href="https://www.oracle.com/in/java/technologies/downloads" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Java.svg" alt="JDK" width="40" height="40" />
+        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/JDK.svg" alt="JDK" width="40" height="40" />
     </a> &nbsp;&nbsp;
     <a href="https://spring.io/tools" target="_blank">
         <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Spring Tool Suite.svg" alt="Spring Tool Suite" width="40" height="40" />
