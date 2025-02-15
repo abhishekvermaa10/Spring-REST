@@ -1,7 +1,5 @@
 <h1 align="center">Spring REST with Spring Boot</h1>
 
-<hr>
-
 <p align="justify">
     Welcome to the <b>Spring REST with Spring Boot</b> repository! This repository contains hands-on demos to help you
     understand and implement RESTful web services using Spring Boot. Whether you're a beginner or an experienced
@@ -10,14 +8,14 @@
 
 <hr>
 
-<h2 align="left">📌 Table of Contents</h2>
+<h3 align="left">📌 Table of Contents</h3>
 <ol align="left">
 
 </ol>
 
 <hr>
 
-<h2 align="left">⚙️ Prerequisites</h2>
+<h3 align="left">⚙️ Prerequisites</h3>
 <p align="justify">
     These demos have been built using <b>JDK 21</b>, <b>Spring Framework 6</b>, and <b>Spring Boot 3</b>. While it is
     recommended to have JDK 21 installed, the examples can be adapted to other Java versions with minimal modifications.
@@ -40,7 +38,7 @@ You can learn these topics from my YouTube channel through dedicated playlists.
 
 <hr>
 
-<h2 align="left">🚀 How to Run the Demos</h2>
+<h3 align="left">🚀 How to Run the Demos</h3>
 <p align="justify">
     Follow these steps to set up and execute the demos:
 </p>
@@ -57,13 +55,15 @@ You can learn these topics from my YouTube channel through dedicated playlists.
 
 <hr>
 
-<h2 align="left">🎥 YouTube Tutorial</h2>
+<h3 align="left">🎥 YouTube Tutorial</h3>
 <p align="justify">
     These demos are explained in detail on my YouTube channel <a href="https://www.youtube.com/@abhishekvermaa10"
         target="_blank"><b>Abhishek Verma</b></a>.
     Watch the complete playlist here: <a href="https://www.youtube.com/playlist?list=PLJDwhlqmpSfM7NmtpvG5tR5TyYctS6yCA"
         target="_blank"><b>Spring REST with Spring Boot</b></a>.
 </p>
+
+<p align="center"><b>🚀 Stay healthy, keep learning, and keep growing!</b></p>
 
 <hr>
 
@@ -91,10 +91,6 @@ You can learn these topics from my YouTube channel through dedicated playlists.
         <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/GMail.svg" alt="GMail" height="30" width="40" />
     </a> &nbsp;&nbsp;
 </p>
-
-<hr>
-
-<h2 align="center">🚀 Happy Learning! Keep Growing! 🚀</h2>
 
 <hr>
 
