@@ -27,12 +27,19 @@
 <p align="justify">
     Before diving into Spring REST, ensure you're comfortable with the following concepts:
 <ul>
-    <li>Java</li>
-    <li>Java Database Connectivity (JDBC)</li>
-    <li>Maven</li>
-    <li>Hibernate</li>
-    <li>Spring Basics with Spring Boot</li>
-    <li>Spring Data JPA with Spring Boot</li>
+    <li>Java Basics</li>
+    <li><a href="https://www.youtube.com/playlist?list=PLJDwhlqmpSfP5xBfI-41j3gNZ6GAsrxD-"
+        target="_blank">Java Advanced</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLJDwhlqmpSfP1FroiBGc7N3-r67VaEp0V"
+        target="_blank">Java Database Connectivity (JDBC)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLJDwhlqmpSfMNgiOg0xyg4hVsPcJUh4jE"
+        target="_blank">Maven</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLJDwhlqmpSfNYPqMMqNj7DXl41fnTVJuY"
+        target="_blank">Hibernate</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLJDwhlqmpSfO7BUlQk_di-86igrzgnsGo"
+        target="_blank">Spring Basics with Spring Boot</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLJDwhlqmpSfPUg7_jffHmF_6MooTlH7rO"
+        target="_blank">Spring Data JPA with Spring Boot</a></li>
 </ul>
 You can learn these topics from my YouTube channel through dedicated playlists.
 </p>
