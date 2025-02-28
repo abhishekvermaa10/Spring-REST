@@ -11,6 +11,7 @@
 <h3 align="left">📌 Table of Contents</h3>
 <ol align="left">
 <li>Why REST?</li>
+<li>What is REST?</li>
 </ol>
 
 <hr>
