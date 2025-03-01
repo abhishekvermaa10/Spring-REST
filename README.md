@@ -12,6 +12,7 @@
 <ol align="left">
 <li>Why REST?</li>
 <li>What is REST?</li>
+<li>Spring MVC vs Spring REST</li>
 </ol>
 
 <hr>
