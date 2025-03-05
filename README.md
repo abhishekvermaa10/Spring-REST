@@ -13,6 +13,7 @@
 <li>Why REST?</li>
 <li>What is REST?</li>
 <li>Spring MVC vs Spring REST</li>
+<li>First application using Spring REST</li>
 </ol>
 
 <hr>
