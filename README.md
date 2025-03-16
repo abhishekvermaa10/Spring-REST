@@ -16,6 +16,7 @@
     <li>First application using Spring REST</li>
     <li>Advanced annotations & ResponseEntity</li>
     <li>Accept input using @RequestBody</li>
+    <li>Accept input using @PathVariable</li>
 </ol>
 
 <hr>
