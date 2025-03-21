@@ -1,0 +1,64 @@
+{
+	"info": {
+		"_postman_id": "a4e72c3b-d172-47b9-b3ce-91f96ff00b76",
+		"name": "Demo5",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4662588"
+	},
+	"item": [
+		{
+			"name": "Find owner",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/owners/72",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"owners",
+						"72"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Find owners by pet date of birth",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/owners/pets/dob?startDate=2010-01-01&endDate=2020-12-12",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"owners",
+						"pets",
+						"dob"
+					],
+					"query": [
+						{
+							"key": "startDate",
+							"value": "2010-01-01"
+						},
+						{
+							"key": "endDate",
+							"value": "2020-12-12"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

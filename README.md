@@ -17,6 +17,7 @@
     <li>Advanced annotations & ResponseEntity</li>
     <li>Accept input using @RequestBody</li>
     <li>Accept input using @PathVariable</li>
+    <li>Accept input using @RequestParam</li>
 </ol>
 
 <hr>
