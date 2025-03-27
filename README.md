@@ -19,6 +19,7 @@
     <li>Accept input using @PathVariable</li>
     <li>Accept input using @RequestParam</li>
 	<li>Accept input using @MatrixVariable</li>
+	<li>Exception Handling</li>
 </ol>
 
 <hr>
