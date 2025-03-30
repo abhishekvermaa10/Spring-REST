@@ -20,6 +20,7 @@
     <li>Accept input using @RequestParam</li>
 	<li>Accept input using @MatrixVariable</li>
 	<li>Exception Handling</li>
+	<li>Input validation</li>
 </ol>
 
 <hr>
