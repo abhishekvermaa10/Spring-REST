@@ -21,6 +21,7 @@
 	<li>Accept input using @MatrixVariable</li>
 	<li>Exception Handling</li>
 	<li>Input validation</li>
+	<li>Pagination</li>
 </ol>
 
 <hr>
