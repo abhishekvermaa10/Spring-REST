@@ -1,0 +1,148 @@
+{
+	"info": {
+		"_postman_id": "98eae703-0c40-48fd-90d1-e499a55a468a",
+		"name": "Demo10",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4662588"
+	},
+	"item": [
+		{
+			"name": "Save owner",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "<ownerDTO>\r\n    <firstName>Abhishek</firstName>\r\n    <lastName>Verma</lastName>\r\n    <gender>M</gender>\r\n    <city>Chandigarh</city>\r\n    <state>Chandigarh</state>\r\n    <mobileNumber>9009009099</mobileNumber>\r\n    <emailId>abhishek@scaleupindia.com</emailId>\r\n    <petDTO>\r\n        <category>Domestic</category>\r\n        <name>Mitthus</name>\r\n        <gender>F</gender>\r\n        <type>CAT</type>\r\n        <birthDate>2010-02-20</birthDate>\r\n    </petDTO>\r\n</ownerDTO>",
+					"options": {
+						"raw": {
+							"language": "xml"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/owners",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"owners"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Find owner",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/owners/70",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"owners",
+						"70"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Find owners by pet date of birth",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/owners/pets/dob?startDate=2010-01-01&endDate=2020-12-12",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"owners",
+						"pets",
+						"dob"
+					],
+					"query": [
+						{
+							"key": "startDate",
+							"value": "2010-01-01"
+						},
+						{
+							"key": "endDate",
+							"value": "2020-12-12"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Find all owners",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {}
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/owners",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"owners"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get owner details as Page",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/owners/details?page=0&size=5&sort=lastName,desc",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"owners",
+						"details"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "0"
+						},
+						{
+							"key": "size",
+							"value": "5"
+						},
+						{
+							"key": "sort",
+							"value": "lastName,desc"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -22,6 +22,7 @@
 	<li>Exception Handling</li>
 	<li>Input validation</li>
 	<li>Pagination</li>
+	<li>Replace JSON with XML</li>
 </ol>
 
 <hr>
