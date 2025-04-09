@@ -23,6 +23,7 @@
 	<li>Input validation</li>
 	<li>Pagination</li>
 	<li>Replace JSON with XML</li>
+	<li>Actuators</li>
 </ol>
 
 <hr>
