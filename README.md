@@ -24,6 +24,7 @@
 	<li>Pagination</li>
 	<li>Replace JSON with XML</li>
 	<li>Actuators</li>
+	<li>API Versioning</li>
 </ol>
 
 <hr>
