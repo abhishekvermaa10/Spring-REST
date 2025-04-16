@@ -25,6 +25,7 @@
 	<li>Replace JSON with XML</li>
 	<li>Actuators</li>
 	<li>API Versioning</li>
+	<li>REST Template</li>
 </ol>
 
 <hr>
