@@ -26,6 +26,7 @@
 	<li>Actuators</li>
 	<li>API Versioning</li>
 	<li>REST Template</li>
+	<li>REST Client</li>
 </ol>
 
 <hr>
