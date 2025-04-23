@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css" />
+  <title>Petistaan</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body data-theme="dark">
+  <div class="theme-toggle" onclick="toggleTheme()">
+    <i class="uil uil-moon" id="moon-icon"></i>
+    <div class="slider" id="slider"></div>
+    <i class="uil uil-sun" id="sun-icon"></i>
+  </div>
+
+  <div class="content">
+    <h1>Pet Owners List</h1>
+    <p id="owner-count"></p>
+    <div id="loader">Loading...</div>
+
+    <div class="table-container" id="table-container"></div>
+
+    <div class="pagination">
+      <button id="prev-page" disabled>Previous</button>
+      <span id="current-page">Page 1</span>
+      <button id="next-page">Next</button>
+      <select id="page-size">
+        <option value="5" selected>5 per page</option>
+        <option value="10">10 per page</option>
+        <option value="20">20 per page</option>
+        <option value="30">30 per page</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="footer">
+    <h3><i class="uil uil-globe"></i> Connect with me</h3>
+    <div class="social-icons">
+      <a href="https://www.youtube.com/@abhishekvermaa10" target="_blank"><i class="uil uil-youtube"></i></a>
+      <a href="https://www.linkedin.com/in/abhishekvermaa10" target="_blank"><i class="uil uil-linkedin"></i></a>
+      <a href="https://www.instagram.com/abhishekvermaa10" target="_blank"><i class="uil uil-instagram"></i></a>
+      <a href="https://x.com/ytabhishekverma" target="_blank"><i class="uil uil-twitter"></i></a>
+      <a href="https://github.com/abhishekvermaa10" target="_blank"><i class="uil uil-github"></i></a>
+      <a href="https://topmate.io/abhishekvermaa10" target="_blank"><i class="uil uil-link"></i></a>
+      <a href="mailto:scaleupindiayt@gmail.com"><i class="uil uil-envelope"></i></a>
+    </div>
+    <p>Copyright © 2025 Abhishek Verma - All Rights Reserved</p>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="../js/common.js"></script>
+  <script src="../js/details/owner.js"></script>
+</body>
+
+</html>

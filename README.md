@@ -27,6 +27,7 @@
 	<li>API Versioning</li>
 	<li>REST Template</li>
 	<li>REST Client</li>
+	<li>CORS</li>
 </ol>
 
 <hr>
