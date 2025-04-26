@@ -28,6 +28,7 @@
 	<li>REST Template</li>
 	<li>REST Client</li>
 	<li>CORS</li>
+	<li>HATEOAS</li>
 </ol>
 
 <hr>
