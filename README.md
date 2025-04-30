@@ -29,6 +29,7 @@
 	<li>REST Client</li>
 	<li>CORS</li>
 	<li>HATEOAS</li>
+	<li>SpringDoc</li>
 </ol>
 
 <hr>
