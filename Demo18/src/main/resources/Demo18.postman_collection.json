@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "e7dcbea6-c8a9-45fe-a8db-feba8f22364b",
+		"name": "Demo18",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4662588"
+	},
+	"item": [
+		{
+			"name": "Find owner",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept-Language",
+						"value": "en",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/owners/73",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"owners",
+						"73"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

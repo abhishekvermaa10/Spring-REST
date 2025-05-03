@@ -30,6 +30,7 @@
 	<li>CORS</li>
 	<li>HATEOAS</li>
 	<li>SpringDoc</li>
+	<li>Internationalization & Localization</li>
 </ol>
 
 <hr>
