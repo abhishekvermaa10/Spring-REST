@@ -31,6 +31,7 @@
 	<li>HATEOAS</li>
 	<li>SpringDoc</li>
 	<li>Internationalization & Localization</li>
+	<li>Spring Boot Admin</li>
 </ol>
 
 <hr>
