@@ -1,0 +1,18 @@
+{
+    "id":1,
+	"firstName": "NewFirstName",
+    "lastName": "NewLastName",
+    "gender": "M",
+    "city": "NewCity",
+    "state": "NewState",
+    "mobileNumber": "9009009000",
+    "emailId": "newfirstname.newlastname@scaleupindia.com",
+    "petDTO": {
+		"category": "Domestic",
+		"id": 1,
+        "name": "NewPetName",
+        "gender": "F",
+        "type": "DOG",
+        "birthDate": "2021-01-01"
+    }
+}

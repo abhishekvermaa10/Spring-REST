@@ -32,6 +32,7 @@
 	<li>SpringDoc</li>
 	<li>Internationalization & Localization</li>
 	<li>Spring Boot Admin</li>
+	<li>Unit Testing</li>
 </ol>
 
 <hr>
