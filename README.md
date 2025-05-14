@@ -33,6 +33,7 @@
 	<li>Internationalization & Localization</li>
 	<li>Spring Boot Admin</li>
 	<li>Unit Testing</li>
+	<li>Cucumber Testing</li>
 </ol>
 
 <hr>
@@ -100,7 +101,7 @@ You can learn these topics from my YouTube channel through dedicated playlists.
 <h3 align="left">🌐 Connect with me</h3>
 <div align="left">
     <a href="https://abhishekvermaa10.github.io" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=My Website&logo=internet-explorer&label=&color=6A5ACD&logoColor=white&labelColor=&style=for-the-badge"
+        <img src="https://img.shields.io/static/v1?message=Website&logo=internet-explorer&label=&color=6A5ACD&logoColor=white&labelColor=&style=for-the-badge"
             height="35" alt="Website" />
     </a>
     <a href="https://www.youtube.com/@abhishekvermaa10" target="_blank">
